@@ -1,0 +1,7 @@
+config.json
+*.txt
+!log_files/log_1.txt
+mobile_prog/mobile.gradle
+test/
+*.js
+!web_prog/web_3.js
